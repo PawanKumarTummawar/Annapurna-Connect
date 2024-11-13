@@ -1,0 +1,71 @@
+.footer-container {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 4rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(114, 125, 56);
+    height: 300px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .content {
+    flex-basis: 50%;
+  }
+  
+  .title {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #ffff;
+  }
+  
+  .description {
+    font-size: 1rem;
+    color: #ccc;
+  }
+  
+  .social-icons {
+    margin-top: 1.5rem;
+  }
+  
+  .social-icons a {
+    margin-right: 1rem;
+  }
+  
+  .menu {
+    display: flex;
+    flex-basis: 50%;
+    justify-content: space-between;
+  }
+  
+  .menu-group {
+    margin-right: 2rem;
+  }
+  
+  .menu-title {
+    font-weight: bold;
+    color: #ccc;
+  }
+  
+  .menu-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .menu-list li {
+    padding: 0.5rem 0;
+    font-size: 0.875rem;
+    color: #ccc;
+  }
+  
+.mail-section{
+  margin-top: 15px;
+}
+
+.phoneCall-section{
+  margin-top: 15px;
+}
+
+.location-section{
+  margin-top: 15px;
+}

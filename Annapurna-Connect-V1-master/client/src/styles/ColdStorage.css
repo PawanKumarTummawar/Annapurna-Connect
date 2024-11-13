@@ -1,0 +1,12 @@
+.ColdStorageMap {
+    height: 65vh; /* Adjust height as needed */
+}
+
+
+.cold-storage-heading{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+}
